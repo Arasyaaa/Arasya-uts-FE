@@ -9,7 +9,7 @@ import PembayaranDasb from './components/PembayaranDasb';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/Arasya-uts-FE'>
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/home" element={<Home />} />
