@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arasya-uts-FE/static/css/main.2ff5ba01.css",
+    "main.js": "/Arasya-uts-FE/static/js/main.964e5190.js",
+    "static/media/hotel.jpg": "/Arasya-uts-FE/static/media/hotel.3b2e064442c57d39bc17.jpg",
+    "static/media/kamar1.jpg": "/Arasya-uts-FE/static/media/kamar1.e38b73fc41ff3c18e936.jpg",
+    "index.html": "/Arasya-uts-FE/index.html",
+    "main.2ff5ba01.css.map": "/Arasya-uts-FE/static/css/main.2ff5ba01.css.map",
+    "main.964e5190.js.map": "/Arasya-uts-FE/static/js/main.964e5190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ff5ba01.css",
+    "static/js/main.964e5190.js"
+  ]
+}
